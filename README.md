@@ -98,9 +98,11 @@ You may also consider including some notable **image-to-image (I2I） editing me
 
 | Paper | Venue | Links |
 |-------|-------|-------|
+| SIA: Selective Image Analogy | SIGGRAPH Asia 2026 | [Paper](https://selective-image-analogy.github.io/) \| [Code](https://github.com/alimohammadiamirhossein/selective-image-analogy) |
 | In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2504.20690) \| [Code](https://github.com/River-Zhang/ICEdit) |
 | AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea | CVPR 2025 (Oral) | [Paper](https://arxiv.org/abs/2411.15738) \| [Code](https://github.com/DCDmllm/AnyEdit) |
 | Stable Flow: Vital Layers for Training-Free Image Editing | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Avrahami_Stable_Flow_Vital_Layers_for_Training-Free_Image_Editing_CVPR_2025_paper.html) \| [Code](https://github.com/snap-research/stable-flow) |
+| Cora: Correspondence-aware Image Editing Using Few-Step Diffusion | SIGGRAPH 2025 | [Paper](https://arxiv.org/abs/2505.23907) \| [Code](https://github.com/alimohammadiamirhossein/cora) |
 | UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_UniReal_Universal_Image_Generation_and_Editing_via_Learning_Real-world_Dynamics_CVPR_2025_paper.html) \| [Code](#) |
 | Taming Rectified Flow for Inversion and Editing | ICML 2025 | [Paper](https://openreview.net/forum?id=uDreZphNky) \| [Code](https://github.com/wangjiangshan0725/RF-Solver-Edit) |
 | Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations | ICLR 2025 | [Paper](https://openreview.net/forum?id=Hu0FSOSEyS) \| [Code](https://github.com/LituRout/RF-Inversion) |
